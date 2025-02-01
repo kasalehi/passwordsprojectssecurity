@@ -1,10 +1,12 @@
-This is one of my most faviourte projects in order to check whether our passwords is secure or not.
-security is playing important role in industry nowdays as most hackers are ready to scapting , ahcking data. 
-This fun project shows how can we apply and create the app to check how is our password is secure. If you dont have time to write codes, highly suggest you  to check you user and security passwords using website "have been pwabed?"
+This is one of my favorite projects for checking whether our passwords are secure. In today's world, security plays a crucial role in the industry, as hackers are constantly scraping and hacking data.
 
-steps to run:
- * create venv
- * activate ven
- * create .py file
+This fun project demonstrates how we can build and apply an app to check the security of our passwords for our staff or stackholders. If you don't have time to write code, I highly recommend using the "Have I Been Pwned?" website to verify your username and password security.
+
+Steps to run:
+Create a virtual environment (venv).
+Activate the virtual environment.
+Create a .py file.
+Copy the code and open your terminal (Bash, PowerShell, or CMD).
+
  * copy the file and open your terminal (bash-powershell or cmd)
- * run file using following command (python pass.py **your_password**)
+ * run file using following command (**python pass.py your_password**)
